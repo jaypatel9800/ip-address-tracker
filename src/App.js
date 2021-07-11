@@ -20,7 +20,7 @@ const Imgs = styled.img`
 `;
 
 const H2 = styled.h2`
-  padding: 20px 0;
+  padding: 22px 0;
   color: white;
   font-weight: 500;
   @media (max-width: 768px) {

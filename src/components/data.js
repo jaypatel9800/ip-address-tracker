@@ -6,7 +6,7 @@ const MainDiv = styled.div`
   display: flex;
   justify-content: space-around;
   text-align: start;
-  margin: 5vh 15%;
+  margin: 6vh 15%;
   padding: 20px;
   height: 20vh;
   align-items: center;
